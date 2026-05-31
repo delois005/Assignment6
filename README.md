@@ -48,5 +48,6 @@ Friedman, J. H. (2001). *Greedy function approximation: A gradient boosting mach
 
 James, G., Witten, D., Hastie, T., & Tibshirani, R. (2023). *An Introduction to Statistical Learning with Applications in Python* (2nd ed.). Springer.
 
-##Author
+## Author
+
 Delois Sistrunk Giles
